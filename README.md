@@ -7,6 +7,8 @@
 ## 🚀 Deployed on Vercel  
 _Built with [v0.dev](https://v0.dev)_
 
+Watch the demo on [Loom](https://www.loom.com/share/36bbf0667f0543898f7cff08b8b27c2b)
+
 ---
 
 ## 📝 Short Summary
